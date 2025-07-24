@@ -57,20 +57,20 @@ Unit Converter (Length Example):
 🚀 How to Run Locally
 Clone the repo:
 
-bash
+#
 Copy
 Edit
 git clone https://github.com/yourusername/advanced-calculator.git
 cd advanced-calculator
 Install dependencies:
 
-bash
+#
 Copy
 Edit
 npm install
 Start the development server:
 
-bash
+#
 Copy
 Edit
 npm start
