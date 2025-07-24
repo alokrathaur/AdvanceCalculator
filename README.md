@@ -58,21 +58,15 @@ Unit Converter (Length Example):
 Clone the repo:
 
 #
-Copy
-Edit
 git clone https://github.com/yourusername/advanced-calculator.git
 cd advanced-calculator
 Install dependencies:
 
 #
-Copy
-Edit
 npm install
 Start the development server:
 
 #
-Copy
-Edit
 npm start
 Open http://localhost:3000 in your browser.
 
